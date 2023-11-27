@@ -1,0 +1,123 @@
+.dropdown-menu{
+    border-radius: 33px;
+background: linear-gradient(145deg, #d5d5d5, #fefefe);
+box-shadow:  20px 20px 8px #c0c0c0,
+             -20px -20px 8px #ffffff;
+    
+    border: none;
+}
+
+
+
+.header{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+.border{
+    background-color: #002444;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.best{
+    color: #002444;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+
+.platform{
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #75819d;
+}
+
+.Register{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 30px;
+    border: none;
+    background-color: #326cf6;
+    border-radius: 10px;
+}
+
+
+.qrcode_chrome{
+    width: 90px;
+    border-color: #052162;
+    border-width: 50px;
+}
+
+
+.here{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.color{
+    border: none;
+}
+
+.offer{
+    background-color: #052162;
+}
+
+.what{
+    color: #2552be;
+    font-weight: bold;
+}
+
+.here{
+    font-size: 30px;
+}
+
+
+.sam{
+    color: #0a1f4c;
+}
+
+.now{
+    padding-top: 45px;
+}
+
+.app{
+    background-color: #f8f8f8;
+}
+
+
+.SamTech{
+    margin-bottom: -100px;
+    background-color: rgb(3, 3, 52);
+    
+}
+
+.store{
+    width: 18%;
+    border-color: white;
+    border-width: 5px;
+    padding-top: 10px;
+}
+
+.customer{
+    color: white;
+}
+
+.services{
+    margin-top: 180px;
+}
+
+
+.line{
+    border-bottom: 1px solid ;
+   width: 80%;
+    border-color: #b7b9bf;
+}
