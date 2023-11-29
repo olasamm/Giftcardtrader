@@ -1,8 +1,8 @@
 .dropdown-menu{
-    border-radius: 33px;
-background: linear-gradient(145deg, #d5d5d5, #fefefe);
-box-shadow:  20px 20px 8px #c0c0c0,
-             -20px -20px 8px #ffffff;
+    border-radius: 17px;
+    background: #ededed;
+    box-shadow:  15px 15px 31px #d8d8d8,
+                 -15px -15px 31px #ffffff;
     
     border: none;
 }
